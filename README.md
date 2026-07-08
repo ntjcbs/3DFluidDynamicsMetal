@@ -1,4 +1,4 @@
-#3DFluidDynamicsMetal
+# 3DFluidDynamicsMetal
 A fluid dynamics implementation using Metal for iOS and OSX. Forked from a 2D version. The intention is to apply the same physics based principals in three dimensions to bring an atmospheric effect for a game.  
 
 ## Usage
